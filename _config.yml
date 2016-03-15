@@ -1,0 +1,38 @@
+# Dependencies
+markdown: kramdown
+kramdown:
+  extensions: ["tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Plan Bay Area 2040 - Project Performance Assessment
+tagline:          'Metropolitan Transportation Commission'
+url:              http://metropolitantransportationcommission.github.io/Project-Performance
+shorturl:         metropolitantransportationcommission.github.io/Project-Performance
+
+author:
+  name:           'Dave Vautin'
+  url:            https://github.com/dvautin1
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/MetropolitanTransportationCommission/Project-Performance/tree/gh-pages
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  Dashboard: 'dashboard/'
+  Equity Mapping: 'equity/'
+  Reference: 'reference/'
+
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from

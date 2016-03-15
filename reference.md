@@ -3,24 +3,11 @@ layout: page
 title: Plan Bay Area 2040 - Performance Reference Documents
 ---
 
-# Survey Schedule
+# Reference Documentation
 
-
-| **Operator**                     | **Field Start** | **Field End** | **Method**           |
-|:---------------------------------|:----------------|:--------------|:---------------------|
-| AC Transit                       | 2012 Sep        | 2012 Dec      | Paper recruit + CATI |
-| Altamont Commuter Express (ACE)  | 2014 Apr        | 2014 Apr      | Personal Interview   |
-| Bay Area Rapid Transit (BART)    | 2015 Feb        | 2015 Jun      | Personal Interview   |
-| Caltrain                         | 2014 Oct        | 2014 Dec      | Personal Interview   |
-| County Connection                | 2012 May        | 2012 May      | Paper recruit + CATI |
-| Golden Gate Transit              | 2013 Sep        | 2013 Oct      | Paper recruit + CATI |
-| Livermore Amador Valley (LAVTA)  | 2013 Sep        | 2013 Oct      | Paper recruit + CATI |
-| Napa VINE                        | 2014 May        | 2014 Nov      | Personal Interview   |
-| Petaluma Transit                 | 2012 Apr        | 2012 Apr      | Paper recruit + CATI |
-| SamTrans                         | 2013 Apr        | 2013 May      | Paper recruit + CATI |
-| Santa Rosa CityBus               | 2012 Apr        | 2012 Apr      | Paper recruit + CATI |
-| San Francisco Bay Ferry (WETA)   | 2013 Nov        | 2013 Nov      | Paper recruit + CATI |
-| San Francisco MTA (Muni)         | *2016 Feb*      | *2016 Jun*    | Personal Interview   |
-| Sonoma County Transit            | 2012 Apr        | 2012 Apr      | Paper recruit + CATI |
-| Tri-Delta                        | 2014 May        | 2014 Jun      | Personal Interview   |
-| Union City                       | 2013 Apr        | 2013 Apr      | Paper recruit + CATI |
+1. Plan Bay Area 2040 Performance - Approach to Benefits and Costs – describes methodology for estimating benefits using the travel model, provides valuations for benefits, and describes the calculations for project costs
+2. Plan Bay Area 2040 Performance - Targets Score Methodology – provides a table of the targets criteria and explains the methodology
+3. Plan Bay Area 2040 Performance - Confidence Assessment Methodology – highlights the overall framework of the benefit-cost confidence assessment discloses potential limitations in the benefit-cost assessment related to travel model accuracy, project purpose considerations, and project implementation timeline
+4. [Plan Bay Area 2040 Performance - Highway and Local Streets State of Good Repair Methodology](https://mtcdrive.box.com/s/s3li252qowpnkdjtn9foulvvlr5f3xsx)  – draft methodology document for road state of good repair discussed with the Local Streets and Roads Working Group in February 2016
+5. [Plan Bay Area 2040 Performance - Public Transit State of Good Repair Methodology](https://mtcdrive.box.com/s/uyod7q3dkbrlhjdckbuqulprtyy8dvxm) – draft methodology document for road state of good repair discussed with the Transit Asset Management Steering Committee in February 2016
+6. Plan Bay Area 2040 Performance - Sensitivity Testing – explores sensitivity of benefit-cost results (not yet available; will be released in April 2016)

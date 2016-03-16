@@ -9,7 +9,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Plan Bay Area 2040 - Project Performance Assessment
+title:            Plan Bay Area 2040 Performance Assessment
 tagline:          'Metropolitan Transportation Commission'
 url:              http://metropolitantransportationcommission.github.io/performance
 shorturl:         metropolitantransportationcommission.github.io/performance
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/MetropolitanTransportationCommission/Project-Performance/tree/gh-pages
+  repo:           https://github.com/MetropolitanTransportationCommission/performance/tree/gh-pages
 
 # This is the list of pages to include in the header of the website.
 pages_list:       

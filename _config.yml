@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            Plan Bay Area 2040 Performance Assessment
 tagline:          'Metropolitan Transportation Commission'
-url:              http://metropolitantransportationcommission.github.io/performance
-shorturl:         metropolitantransportationcommission.github.io/performance
+url:              http://data.mtc.ca.gov/performance
+shorturl:         data.mtc.ca.gov/performance
 
 author:
   name:           'Dave Vautin'

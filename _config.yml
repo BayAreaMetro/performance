@@ -10,8 +10,8 @@ permalink:        pretty
 # Setup
 title:            Plan Bay Area 2040 Performance Assessment
 tagline:          'Metropolitan Transportation Commission'
-url:              http://metropolitantransportationcommission.github.io/performance/
-shorturl:         metropolitantransportationcommission.github.io/performance/
+url:              http://bayareametro.github.io/performance/
+shorturl:         bayareametro.github.io/performance/
 
 author:
   name:           'Dave Vautin'
@@ -20,15 +20,14 @@ author:
 paginate:         1
 
 # Custom vars
-version:          1.0.0
+version:          1.0.1
 
 github:
-  repo:           https://github.com/MetropolitanTransportationCommission/performance/tree/gh-pages
+  repo:           https://github.com/BayAreaMetro/performance/tree/gh-pages
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
   Dashboard: 'dashboard/'
-  Data Tables: 'tables/'
   Equity Map: 'equity/'
   Reference: 'reference/'
 
